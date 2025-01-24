@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "References_Miller_Gabriella/1.0.0": {
+        "runtime": {
+          "References_Miller_Gabriella.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "References_Miller_Gabriella/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

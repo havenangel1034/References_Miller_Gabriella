@@ -1,0 +1,14 @@
+C:\Users\GABRIELLAMILLER\source\repos\References_Miller_Gabriella\References_Miller_Gabriella\bin\Debug\net6.0\References_Miller_Gabriella.exe
+C:\Users\GABRIELLAMILLER\source\repos\References_Miller_Gabriella\References_Miller_Gabriella\bin\Debug\net6.0\References_Miller_Gabriella.deps.json
+C:\Users\GABRIELLAMILLER\source\repos\References_Miller_Gabriella\References_Miller_Gabriella\bin\Debug\net6.0\References_Miller_Gabriella.runtimeconfig.json
+C:\Users\GABRIELLAMILLER\source\repos\References_Miller_Gabriella\References_Miller_Gabriella\bin\Debug\net6.0\References_Miller_Gabriella.dll
+C:\Users\GABRIELLAMILLER\source\repos\References_Miller_Gabriella\References_Miller_Gabriella\bin\Debug\net6.0\References_Miller_Gabriella.pdb
+C:\Users\GABRIELLAMILLER\source\repos\References_Miller_Gabriella\References_Miller_Gabriella\obj\Debug\net6.0\References_Miller_Gabriella.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GABRIELLAMILLER\source\repos\References_Miller_Gabriella\References_Miller_Gabriella\obj\Debug\net6.0\References_Miller_Gabriella.AssemblyInfoInputs.cache
+C:\Users\GABRIELLAMILLER\source\repos\References_Miller_Gabriella\References_Miller_Gabriella\obj\Debug\net6.0\References_Miller_Gabriella.AssemblyInfo.cs
+C:\Users\GABRIELLAMILLER\source\repos\References_Miller_Gabriella\References_Miller_Gabriella\obj\Debug\net6.0\References_Miller_Gabriella.csproj.CoreCompileInputs.cache
+C:\Users\GABRIELLAMILLER\source\repos\References_Miller_Gabriella\References_Miller_Gabriella\obj\Debug\net6.0\References_Miller_Gabriella.dll
+C:\Users\GABRIELLAMILLER\source\repos\References_Miller_Gabriella\References_Miller_Gabriella\obj\Debug\net6.0\refint\References_Miller_Gabriella.dll
+C:\Users\GABRIELLAMILLER\source\repos\References_Miller_Gabriella\References_Miller_Gabriella\obj\Debug\net6.0\References_Miller_Gabriella.pdb
+C:\Users\GABRIELLAMILLER\source\repos\References_Miller_Gabriella\References_Miller_Gabriella\obj\Debug\net6.0\References_Miller_Gabriella.genruntimeconfig.cache
+C:\Users\GABRIELLAMILLER\source\repos\References_Miller_Gabriella\References_Miller_Gabriella\obj\Debug\net6.0\ref\References_Miller_Gabriella.dll
