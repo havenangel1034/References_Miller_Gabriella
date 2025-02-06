@@ -22,6 +22,7 @@
 
             Truck myTruck = new Truck(50, 500, "MyTrUck");
 
+            //calls stringify and describes automobiles
             myFirstSedan.Stringify();
             myAutomobile.Stringify();
             myOtherSedan.Stringify();
